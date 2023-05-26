@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/web-portfolio/static/css/main.da4bc754.css",
+    "main.js": "/web-portfolio/static/js/main.c77d3310.js",
+    "static/media/education.png": "/web-portfolio/static/media/education.f710fb8a697e4682ea34.png",
+    "static/media/logo.png": "/web-portfolio/static/media/logo.00746e5743029b68481c.png",
+    "static/media/universityLogo.png": "/web-portfolio/static/media/universityLogo.d282a280d5c75ec9f525.png",
+    "static/media/universityLogo2.png": "/web-portfolio/static/media/universityLogo2.da962c73ab3c5e53a1cb.png",
+    "index.html": "/web-portfolio/index.html",
+    "main.da4bc754.css.map": "/web-portfolio/static/css/main.da4bc754.css.map",
+    "main.c77d3310.js.map": "/web-portfolio/static/js/main.c77d3310.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da4bc754.css",
+    "static/js/main.c77d3310.js"
+  ]
+}
