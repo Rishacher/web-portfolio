@@ -1,0 +1,8 @@
+.open-button {
+    display: block;
+    margin: 20px auto;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }

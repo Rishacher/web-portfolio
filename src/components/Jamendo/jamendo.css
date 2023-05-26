@@ -1,0 +1,28 @@
+.player-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px 20px 20px;
+}
+
+.player-controls {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.track-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  width: 150px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.volume-control {
+  width: 60px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
